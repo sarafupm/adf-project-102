@@ -1,0 +1,9 @@
+{
+	"name": "step2c-adf",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1c030cfe-13f8-4db2-a558-c95ec9a48c9d",
+		"tenantId": "7945b8fd-beaf-4df5-bba2-0fb2e39fff03"
+	}
+}
